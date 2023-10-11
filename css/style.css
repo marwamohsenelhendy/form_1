@@ -1,0 +1,41 @@
+.profile-container {
+    width: 859px;
+    height: 182px;
+    top: 421px;
+    left: 290px;
+    border-radius: 32px;
+  }
+  
+  .profile-container .content {
+    width: 859px;
+    height: 72px;
+    top: 421px;
+    left: 290px;
+    transform: translate(50%, 100%);
+  }
+  
+  .profile-container .content p {
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 72px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  
+  .profile-container  button {
+    width: 304px;
+    height: 64px;
+    top: 539px;
+    left: 568px;
+    padding: 16.5px 0px 17.5px 0px;
+    border-radius: 32px;
+    background: #EB4335;
+    border: none;
+    color: white;
+    font-size: 20px;
+    transform: translate(30%, -30%);
+    cursor: pointer;
+  }
+
+  /* @ media */
